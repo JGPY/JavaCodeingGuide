@@ -1,4 +1,4 @@
-package jianZhi_offer_66.id3_1;
+package jianzhi_offer_66.id3_1;
 /**
  * @author l
  */

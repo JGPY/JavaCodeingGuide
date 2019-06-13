@@ -1,4 +1,4 @@
-package jianZhi_offer_66.id3_2;
+package jianzhi_offer_66.id3_2;
 
 public class Solution {
 
